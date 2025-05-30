@@ -47,7 +47,7 @@ Como **hito determinante** del estudio se revisaron los períodos:
 
 Analizando posibles cambios en la variable de concentración de adjudicatarios.
 
-Parte al paper para discusión
+Parte del paper para discusión
 
 [![📄 Paper Incompleto](https://img.shields.io/badge/PDF-Paper%20Incompleto-red?style=for-the-badge&logo=filetypepdf)](https://github.com/cgrcostarica/umbrales-compras-publicas/blob/main/paper%20t%C3%A9cnico%20(4)_watermark.pdf)
 
