@@ -51,13 +51,16 @@ Analizando posibles cambios en la variable de concentración de adjudicatarios.
 
 ## 🚀 Ejecutar el Análisis
 
-¿Quieres explorar los datos y reproducir este análisis? Haz clic en el botón para abrir el notebook interactivo:
+Código de análisis de IHH por segmento de SICOP:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgrcostarica/umbrales-compras-publicas/blob/main/umbrales_hhi_rfc.ipynb)
 
+Código de análisis de coeficiente de variación de precios CV por código de producto 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgrcostarica/umbrales-compras-publicas/blob/main/umbrales_hhi_rfc.ipynb)
 ---
 
 *Desarrollado por la Contraloría General de la República de Costa Rica*
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgrcostarica/umbrales-compras-publicas/blob/main/umbrales_hhi_rfc.ipynb)
+
